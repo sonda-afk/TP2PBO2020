@@ -1,0 +1,9 @@
+Saya Sondari Setia Rahayu mengerjakan Tugas Praktikum ke-2
+dalam mata kuliah PBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan 
+seperti yang telah dispesifikasikan. Aamiin.
+
+Deskripsi :
+Tugas ini dibuat menggunakan library jdbc serta jcalendar
+Tugas ini telah dilengkapi dengan berbagai fitur yang telah dispesifikasikan
+Selain itu, tugas ini telah dibuat database-nya dalam file perpustakaan.sql
